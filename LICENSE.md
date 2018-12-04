@@ -1,4 +1,4 @@
-This monfresh project is originally based on [thoughtbot's laptop project](https://github.com/thoughtbot/laptop).
+This occupier project is originally based on [thoughtbot's laptop project](https://github.com/thoughtbot/laptop).
 
 ## thoughtbot's work
 
